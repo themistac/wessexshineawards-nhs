@@ -115,7 +115,6 @@ For any queries or assistance please contact Jenny Vincent on 01962 718526 or <a
 <td width="500" valign="top" style="background-color:#eee;">[[+nominee1-firstname]]</td>
 </tr>
 
-
 <tr>
 <td width="100" valign="top" style="background-color:#eee;">Surname</td>
 <td width="500" valign="top" style="background-color:#eee;">[[+nominee1-surname]]</td>
